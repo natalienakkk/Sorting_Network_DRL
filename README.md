@@ -1,4 +1,6 @@
 # Sorting_Network_DRL
+![python](https://img.shields.io/badge/Language-Python-pink)
+
 Sorting Network Solver Using Deep Reinforcement Learning.
 
 
